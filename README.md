@@ -1,6 +1,5 @@
 
 
-# Bitcoin Ticker 🤑
 
 
 
